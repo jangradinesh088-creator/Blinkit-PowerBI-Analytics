@@ -28,13 +28,11 @@ An end-to-end interactive Power BI dashboard designed to evaluate sales performa
 
 ---
 
-## 📁 Repository Structure
-- `Blinkit_Analytics_Dashboard.pbix` — Power BI Source File
-- `Screenshots/` — High-resolution visuals across all 3 dashboard pages
-- `Datasets/` — Raw dataset files used for modeling and analysis 
 
----
+Dinesh Jangra
 
-## 👤 Author
-**Dinesh Jangra**  
-- [LinkedIn Profile](https://linkedin.com)
+📧 Aspiring Data Analyst
+
+Connect with Me (8685069774)
+GitHub: https://github.com/jangradinesh088-creator
+LinkedIn: (linkedin.com/dineshjangra )
